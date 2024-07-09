@@ -5,7 +5,8 @@ Patches included:
 - Arizona Slave Army
 - Atmospheric Lighting Tweaks Patch
 - Desert Natural Weathers Patch
-- Map Marker Icons
+- Natural Ruster Coat Patch
+- Map Marker Icons Patch
 
 Map Varients:
 - Vanilla Map
